@@ -1,0 +1,42 @@
+.app-name{
+	background-color: purple;
+	color: white;
+	padding: 50px;
+	font-size: 24px;
+	font-family: Montserrat;
+}
+.main-div p{
+	background-color: orange;
+	text-align: center;
+	padding: 8px;
+	font-size: 12px;
+}
+.list-div{
+	background-color: #eee;
+	width: 80vw;
+	margin-left: 10vw;
+	font-size: 14px;
+}
+.theLists{
+	padding: 20px;
+	border-bottom: 2px solid purple;
+}
+.add-button{
+	position: absolute;
+	height: 80px;
+	width: 80px;
+	background-color: purple;
+	color: white;
+	display: flex;
+	/*justify content aligns horizontally*/
+	justify-content: center;
+	/*align-items aligns content vertically*/
+	align-items: center;
+	border-radius: 50%;
+	bottom: 20px;
+	right: 10px;
+	font-size: 24px;
+}
+.remove{
+	cursor: pointer;
+}

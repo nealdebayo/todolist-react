@@ -1,0 +1,32 @@
+.add-list-div{
+	width: 80vw;
+	margin-left: 10vw;
+	z-index: 2;
+	background-color: orange;
+	padding: 28px;
+	height: auto;
+	position: absolute;
+	top: 30px;
+}
+.btn{
+	font-size: 16px;
+	padding-left: 22px;
+	padding-right: 22px;
+}
+.remove{
+	float:right;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.j-input-title{
+	margin-bottom: 20px;
+	height: 24px;
+	width: 60%;
+	font-size: 16px;
+	
+}
+.j-input {
+	margin-bottom: 20px;
+	height: 40px;
+	font-size: 16px;
+}
